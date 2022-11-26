@@ -12,7 +12,6 @@ int main() {
         c = a + b;
         a = b;
         b = c;
-           if (c< n) {
            cout<< c <<endl;
            }
    return 0;
